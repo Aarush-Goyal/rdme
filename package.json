@@ -38,7 +38,7 @@
     "command-line-args": "^5.2.0",
     "command-line-usage": "^6.0.2",
     "config": "^3.1.0",
-    "configstore": "^5.0.0",
+    "configstore": "^6.0.0",
     "editor": "^1.0.0",
     "enquirer": "^2.3.0",
     "form-data": "^4.0.0",
